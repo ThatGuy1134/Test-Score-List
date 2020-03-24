@@ -1,0 +1,10 @@
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\obj\Debug\netcoreapp2.1\TestScoreList.csprojAssemblyReference.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\obj\Debug\netcoreapp2.1\TestScoreList.AssemblyInfoInputs.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\obj\Debug\netcoreapp2.1\TestScoreList.AssemblyInfo.cs
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\bin\Debug\netcoreapp2.1\TestScoreList.deps.json
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\bin\Debug\netcoreapp2.1\TestScoreList.runtimeconfig.json
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\bin\Debug\netcoreapp2.1\TestScoreList.runtimeconfig.dev.json
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\bin\Debug\netcoreapp2.1\TestScoreList.dll
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\bin\Debug\netcoreapp2.1\TestScoreList.pdb
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\obj\Debug\netcoreapp2.1\TestScoreList.dll
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\TestScoreList\TestScoreList\obj\Debug\netcoreapp2.1\TestScoreList.pdb
